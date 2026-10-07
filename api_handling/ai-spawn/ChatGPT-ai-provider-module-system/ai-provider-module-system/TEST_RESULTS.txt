@@ -1,0 +1,25 @@
+test_01_text_and_instruction (test_system.SystemTests.test_01_text_and_instruction) ... ok
+test_02_dict (test_system.SystemTests.test_02_dict) ... ok
+test_03_list (test_system.SystemTests.test_03_list) ... ok
+test_04_dataframe (test_system.SystemTests.test_04_dataframe) ... ok
+test_05_unsupported_data (test_system.SystemTests.test_05_unsupported_data) ... ok
+test_06_empty_input (test_system.SystemTests.test_06_empty_input) ... ok
+test_07_provider_configuration (test_system.SystemTests.test_07_provider_configuration) ... ok
+test_08_invalid_limits_and_instructions (test_system.SystemTests.test_08_invalid_limits_and_instructions) ... ok
+test_09_lossless_chunking (test_system.SystemTests.test_09_lossless_chunking) ... ok
+test_10_chunk_then_merge (test_system.SystemTests.test_10_chunk_then_merge) ... ok
+test_11_hierarchical_reduction (test_system.SystemTests.test_11_hierarchical_reduction) ... ok
+test_12_convergence_guard (test_system.SystemTests.test_12_convergence_guard) ... ok
+test_13_openai_request (test_system.SystemTests.test_13_openai_request) ... ok
+test_14_anthropic_request (test_system.SystemTests.test_14_anthropic_request) ... ok
+test_15_gemini_request (test_system.SystemTests.test_15_gemini_request) ... ok
+test_16_ollama_request (test_system.SystemTests.test_16_ollama_request) ... ok
+test_17_keys_and_configuration (test_system.SystemTests.test_17_keys_and_configuration) ... ok
+test_18_unusable_provider_responses (test_system.SystemTests.test_18_unusable_provider_responses) ... ok
+test_19_http_transport_and_errors (test_system.SystemTests.test_19_http_transport_and_errors) ... ok
+test_20_custom_failures_and_provider_replacement (test_system.SystemTests.test_20_custom_failures_and_provider_replacement) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.364s
+
+OK
